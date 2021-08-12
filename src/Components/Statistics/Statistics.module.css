@@ -1,0 +1,8 @@
+.statistics {
+  font-weight: 500;
+  background: rgb(229, 231, 68);
+  margin: 5px auto;
+  padding: 7px;
+  width: 250px;
+  border-radius: 10px;
+}
